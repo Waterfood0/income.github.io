@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://waterfood0.github.io/income.github.io/sitemap.xml
